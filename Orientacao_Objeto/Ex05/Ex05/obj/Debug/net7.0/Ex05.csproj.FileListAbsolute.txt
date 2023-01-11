@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\bin\Debug\net7.0\Ex05.exe
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\bin\Debug\net7.0\Ex05.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\bin\Debug\net7.0\Ex05.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\bin\Debug\net7.0\Ex05.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\bin\Debug\net7.0\Ex05.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\Ex05.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\Ex05.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\Ex05.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\Ex05.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\refint\Ex05.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\Ex05.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\Ex05.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ex05\Ex05\obj\Debug\net7.0\ref\Ex05.dll

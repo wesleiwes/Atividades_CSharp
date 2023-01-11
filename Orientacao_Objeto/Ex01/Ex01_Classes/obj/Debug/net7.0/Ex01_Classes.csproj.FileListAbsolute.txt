@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\bin\Debug\net7.0\Ex01_Classes.exe
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\bin\Debug\net7.0\Ex01_Classes.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\bin\Debug\net7.0\Ex01_Classes.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\bin\Debug\net7.0\Ex01_Classes.dll
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\bin\Debug\net7.0\Ex01_Classes.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\Ex01_Classes.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\Ex01_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\Ex01_Classes.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\Ex01_Classes.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\Ex01_Classes.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\Ex01_Classes.dll
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\refint\Ex01_Classes.dll
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\Ex01_Classes.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\Ex01_Classes.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Ex01_Classes\Ex01_Classes\obj\Debug\net7.0\ref\Ex01_Classes.dll

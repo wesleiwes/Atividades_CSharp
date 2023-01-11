@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\bin\Debug\net7.0\Lista04Exercicio02.exe
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\bin\Debug\net7.0\Lista04Exercicio02.deps.json
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\bin\Debug\net7.0\Lista04Exercicio02.runtimeconfig.json
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\bin\Debug\net7.0\Lista04Exercicio02.dll
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\bin\Debug\net7.0\Lista04Exercicio02.pdb
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\Lista04Exercicio02.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\Lista04Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\Lista04Exercicio02.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\Lista04Exercicio02.AssemblyInfo.cs
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\Lista04Exercicio02.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\Lista04Exercicio02.dll
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\refint\Lista04Exercicio02.dll
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\Lista04Exercicio02.pdb
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\Lista04Exercicio02.genruntimeconfig.cache
+C:\Windows\Temp\projetos\Lista04Exercicio02\Lista04Exercicio02\obj\Debug\net7.0\ref\Lista04Exercicio02.dll

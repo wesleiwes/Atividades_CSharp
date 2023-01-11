@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\bin\Debug\net7.0\Lista02Exercicio05.exe
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\bin\Debug\net7.0\Lista02Exercicio05.deps.json
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\bin\Debug\net7.0\Lista02Exercicio05.runtimeconfig.json
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\bin\Debug\net7.0\Lista02Exercicio05.dll
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\bin\Debug\net7.0\Lista02Exercicio05.pdb
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\Lista02Exercicio05.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\Lista02Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\Lista02Exercicio05.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\Lista02Exercicio05.AssemblyInfo.cs
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\Lista02Exercicio05.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\Lista02Exercicio05.dll
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\refint\Lista02Exercicio05.dll
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\Lista02Exercicio05.pdb
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\Lista02Exercicio05.genruntimeconfig.cache
+C:\Windows\Temp\projetos\Lista02Exercicio05\Lista02Exercicio05\obj\Debug\net7.0\ref\Lista02Exercicio05.dll

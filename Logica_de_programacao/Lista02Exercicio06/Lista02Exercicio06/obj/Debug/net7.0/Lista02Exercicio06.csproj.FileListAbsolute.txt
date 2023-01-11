@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\Lista02Exercicio06.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\Lista02Exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\Lista02Exercicio06.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\Lista02Exercicio06.AssemblyInfo.cs
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\Lista02Exercicio06.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\bin\Debug\net7.0\Lista02Exercicio06.exe
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\bin\Debug\net7.0\Lista02Exercicio06.deps.json
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\bin\Debug\net7.0\Lista02Exercicio06.runtimeconfig.json
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\bin\Debug\net7.0\Lista02Exercicio06.dll
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\bin\Debug\net7.0\Lista02Exercicio06.pdb
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\Lista02Exercicio06.dll
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\refint\Lista02Exercicio06.dll
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\Lista02Exercicio06.pdb
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\Lista02Exercicio06.genruntimeconfig.cache
+C:\Windows\Temp\projetos\Lista02Exercicio06\Lista02Exercicio06\obj\Debug\net7.0\ref\Lista02Exercicio06.dll

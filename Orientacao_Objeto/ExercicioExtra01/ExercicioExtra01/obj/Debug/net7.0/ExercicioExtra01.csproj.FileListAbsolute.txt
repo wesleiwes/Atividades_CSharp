@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ExercicioExtra01.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ExercicioExtra01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ExercicioExtra01.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ExercicioExtra01.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ExercicioExtra01.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net7.0\ExercicioExtra01.exe
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net7.0\ExercicioExtra01.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net7.0\ExercicioExtra01.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net7.0\ExercicioExtra01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net7.0\ExercicioExtra01.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ExercicioExtra01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\refint\ExercicioExtra01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ExercicioExtra01.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ExercicioExtra01.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net7.0\ref\ExercicioExtra01.dll

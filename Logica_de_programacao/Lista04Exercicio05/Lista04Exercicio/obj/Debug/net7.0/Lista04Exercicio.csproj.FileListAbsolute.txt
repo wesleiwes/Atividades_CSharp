@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\bin\Debug\net7.0\Lista04Exercicio.exe
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\bin\Debug\net7.0\Lista04Exercicio.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\bin\Debug\net7.0\Lista04Exercicio.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\bin\Debug\net7.0\Lista04Exercicio.dll
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\bin\Debug\net7.0\Lista04Exercicio.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\Lista04Exercicio.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\Lista04Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\Lista04Exercicio.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\Lista04Exercicio.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\Lista04Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\Lista04Exercicio.dll
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\refint\Lista04Exercicio.dll
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\Lista04Exercicio.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\Lista04Exercicio.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Logica de programacao\Lista04Exercicio\Lista04Exercicio\obj\Debug\net7.0\ref\Lista04Exercicio.dll
