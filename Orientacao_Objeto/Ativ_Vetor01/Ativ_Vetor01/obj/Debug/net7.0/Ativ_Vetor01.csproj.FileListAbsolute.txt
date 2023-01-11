@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\bin\Debug\net7.0\Ativ_Vetor01.exe
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\bin\Debug\net7.0\Ativ_Vetor01.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\bin\Debug\net7.0\Ativ_Vetor01.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\bin\Debug\net7.0\Ativ_Vetor01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\bin\Debug\net7.0\Ativ_Vetor01.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\Ativ_Vetor01.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\Ativ_Vetor01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\Ativ_Vetor01.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\Ativ_Vetor01.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\Ativ_Vetor01.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\Ativ_Vetor01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\refint\Ativ_Vetor01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\Ativ_Vetor01.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\Ativ_Vetor01.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Vetor01\Ativ_Vetor01\obj\Debug\net7.0\ref\Ativ_Vetor01.dll
