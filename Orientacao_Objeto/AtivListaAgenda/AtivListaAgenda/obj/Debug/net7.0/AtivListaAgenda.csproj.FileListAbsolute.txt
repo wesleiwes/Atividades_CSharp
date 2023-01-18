@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\bin\Debug\net7.0\AtivListaAgenda.exe
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\bin\Debug\net7.0\AtivListaAgenda.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\bin\Debug\net7.0\AtivListaAgenda.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\bin\Debug\net7.0\AtivListaAgenda.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\bin\Debug\net7.0\AtivListaAgenda.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\AtivListaAgenda.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\AtivListaAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\AtivListaAgenda.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\AtivListaAgenda.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\AtivListaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\AtivListaAgenda.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\refint\AtivListaAgenda.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\AtivListaAgenda.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\AtivListaAgenda.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaAgenda\AtivListaAgenda\obj\Debug\net7.0\ref\AtivListaAgenda.dll

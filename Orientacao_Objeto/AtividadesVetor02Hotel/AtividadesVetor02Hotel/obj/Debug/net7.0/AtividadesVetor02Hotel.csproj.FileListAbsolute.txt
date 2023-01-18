@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\bin\Debug\net7.0\AtividadesVetor02Hotel.exe
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\bin\Debug\net7.0\AtividadesVetor02Hotel.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\bin\Debug\net7.0\AtividadesVetor02Hotel.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\bin\Debug\net7.0\AtividadesVetor02Hotel.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\bin\Debug\net7.0\AtividadesVetor02Hotel.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\AtividadesVetor02Hotel.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\AtividadesVetor02Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\AtividadesVetor02Hotel.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\AtividadesVetor02Hotel.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\AtividadesVetor02Hotel.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\AtividadesVetor02Hotel.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\refint\AtividadesVetor02Hotel.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\AtividadesVetor02Hotel.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\AtividadesVetor02Hotel.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtividadesVetor02Hotel\AtividadesVetor02Hotel\obj\Debug\net7.0\ref\AtividadesVetor02Hotel.dll

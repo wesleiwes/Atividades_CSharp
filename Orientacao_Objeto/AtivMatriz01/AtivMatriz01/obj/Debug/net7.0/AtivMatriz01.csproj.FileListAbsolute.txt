@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\bin\Debug\net7.0\AtivMatriz01.exe
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\bin\Debug\net7.0\AtivMatriz01.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\bin\Debug\net7.0\AtivMatriz01.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\bin\Debug\net7.0\AtivMatriz01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\bin\Debug\net7.0\AtivMatriz01.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\AtivMatriz01.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\AtivMatriz01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\AtivMatriz01.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\AtivMatriz01.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\AtivMatriz01.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\AtivMatriz01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\refint\AtivMatriz01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\AtivMatriz01.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\AtivMatriz01.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivMatriz01\AtivMatriz01\obj\Debug\net7.0\ref\AtivMatriz01.dll

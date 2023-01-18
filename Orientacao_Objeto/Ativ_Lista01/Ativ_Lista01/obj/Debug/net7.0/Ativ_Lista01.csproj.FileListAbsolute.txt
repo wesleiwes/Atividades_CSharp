@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\bin\Debug\net7.0\Ativ_Lista01.exe
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\bin\Debug\net7.0\Ativ_Lista01.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\bin\Debug\net7.0\Ativ_Lista01.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\bin\Debug\net7.0\Ativ_Lista01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\bin\Debug\net7.0\Ativ_Lista01.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\Ativ_Lista01.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\Ativ_Lista01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\Ativ_Lista01.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\Ativ_Lista01.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\Ativ_Lista01.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\Ativ_Lista01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\refint\Ativ_Lista01.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\Ativ_Lista01.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\Ativ_Lista01.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\Ativ_Lista01\Ativ_Lista01\obj\Debug\net7.0\ref\Ativ_Lista01.dll

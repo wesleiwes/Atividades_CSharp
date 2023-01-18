@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wesle\\Desktop\\C#\\Atividades\\Orientacao_Objeto\\Classes_Atributos_Metodos\\ExerciciosExtra04\\ExerciciosExtra04\\ExerciciosExtra04.csproj",
+      "projectUniqueName": "C:\\Users\\wesle\\Desktop\\C#\\Atividades\\Orientacao_Objeto\\ExerciciosExtra04\\ExerciciosExtra04\\ExerciciosExtra04.csproj",
       "projectName": "ExerciciosExtra04",
-      "projectPath": "C:\\Users\\wesle\\Desktop\\C#\\Atividades\\Orientacao_Objeto\\Classes_Atributos_Metodos\\ExerciciosExtra04\\ExerciciosExtra04\\ExerciciosExtra04.csproj",
+      "projectPath": "C:\\Users\\wesle\\Desktop\\C#\\Atividades\\Orientacao_Objeto\\ExerciciosExtra04\\ExerciciosExtra04\\ExerciciosExtra04.csproj",
       "packagesPath": "C:\\Users\\wesle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wesle\\Desktop\\C#\\Atividades\\Orientacao_Objeto\\Classes_Atributos_Metodos\\ExerciciosExtra04\\ExerciciosExtra04\\obj\\",
+      "outputPath": "C:\\Users\\wesle\\Desktop\\C#\\Atividades\\Orientacao_Objeto\\ExerciciosExtra04\\ExerciciosExtra04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

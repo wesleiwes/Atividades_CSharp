@@ -1,0 +1,15 @@
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\bin\Debug\net7.0\AtivListaSalario.exe
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\bin\Debug\net7.0\AtivListaSalario.deps.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\bin\Debug\net7.0\AtivListaSalario.runtimeconfig.json
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\bin\Debug\net7.0\AtivListaSalario.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\bin\Debug\net7.0\AtivListaSalario.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\AtivListaSalario.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\AtivListaSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\AtivListaSalario.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\AtivListaSalario.AssemblyInfo.cs
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\AtivListaSalario.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\AtivListaSalario.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\refint\AtivListaSalario.dll
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\AtivListaSalario.pdb
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\AtivListaSalario.genruntimeconfig.cache
+C:\Users\wesle\Desktop\C#\Atividades\Orientacao_Objeto\Classes_Atributos_Metodos\AtivListaSalario\AtivListaSalario\obj\Debug\net7.0\ref\AtivListaSalario.dll

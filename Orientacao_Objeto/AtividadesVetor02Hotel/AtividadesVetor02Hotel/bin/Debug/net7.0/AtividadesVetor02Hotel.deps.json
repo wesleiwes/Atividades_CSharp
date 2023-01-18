@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AtividadesVetor02Hotel/1.0.0": {
+        "runtime": {
+          "AtividadesVetor02Hotel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadesVetor02Hotel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
